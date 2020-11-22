@@ -4,47 +4,44 @@
     "occupation":"Full Stack Web Developer",
     "description":"Hardworking team-player with a passion for tech and a urge to learn each and every day. Hoping to create connections with like minded individuals",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Born and Raised in San Diego, California tech has always been a love of mine. My family was the type that had a computer in every room and a true understanding of how technology flows and works. I love the ins and outs of code and am very excited to begin my career as a web developer.",
+    "contactmessage":"Contact me through any of the following methods",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
     "address":{
-      "street":"(Your Street)",
       "city":"San Diego",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "state":"CA",
+      "zip": "92107"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/timothy.sanders2/",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/mrtimsanders",
         "className":"fa fa-twitter"
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
+        "url":"http://googleplus.com/tbsanders5",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"www.linkedin.com/in/timothy-sanders-540b6656",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/mrtimsanders",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/tbsanders5",
         "className":"fa fa-github"
       },
       {
@@ -55,33 +52,21 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Full-Stack developer focussed in MERN and Javscript",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"UCSD Bootcamp Extension",
+        "degree":"Completeion of MERN Full Stack",
+        "graduated":"December 2020",
+        "description":"Fast paced incredible learning experience with a strong instructor and dedicated class mates. Learned front end styles and javascript, worked in to working with databases, then finished with combing everything in to a full MERN application."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"10 years in the Culinary Industry",
+        "title":"Executive Chef",
+        "years":"July 2010 - March 2020",
+        "description":"Prior entering the bootcamp I worked as a professional chef. I graduated from Le Cordon Blue in Pasadena, CA in 2010. I worked my way up and was an executive chef for the final 5 years of my career. I managed teams, resolved conflict, handled orders and inventory and focused on learning every day."
       }
     ],
     "skills":[
@@ -90,24 +75,24 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Javascript",
+        "level":"65%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"75%"
       },
       {
-        "name":"CSS",
+        "name":"NodeJS",
         "level":"90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"HTML5/CSS",
+        "level":"95%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Express",
+        "level":"70%"
       },
       {
         "name":"MongoDB",
@@ -118,46 +103,34 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Cobra Arcade",
+        "category":"Web application to enjoy old school arcade games.",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Fantastic Foods",
+        "category":"A meal planning application with recipe search.",
         "image":"fury-fighting-gear.jpg",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Budget Tracker",
+        "category":"Application geared towards helping you track finances.",
         "image":"original-thai-food.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Employee Directory",
+        "category":"Web application that allows you to track employees.",
         "image":"resume-website.jpg",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Fitness Tracker",
+        "category":"Application to track your workouts.",
         "image":"smirkspace.jpg",
         "url":"http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
       }
     ]
   }
