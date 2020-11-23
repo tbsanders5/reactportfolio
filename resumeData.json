@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name":"Tim Sanders",
+    "occupation":"Full Stack Web Developer",
+    "description":"Hardworking team-player with a passion for tech and a urge to learn each and every day. Hoping to create connections with like minded individuals",
+    "image":"profilepic.jpg",
+    "bio":"Born and Raised in San Diego, California tech has always been a love of mine. My family was the type that had a computer in every room and a true understanding of how technology flows and works. I love the ins and outs of code and am very excited to begin my career as a web developer.",
+    "contactmessage":"Contact me with any inquiries",
+    "email": "tbsanders5@gmail.com",
+    "phone": "310-426-4601",
+    "address":{
+      "city":"San Diego",
+      "state":"CA",
+      "zip": "92107"
+    },
+    "resumedownload":"https://docs.google.com/document/d/1E1IpvXGHx3-Q77dXS5tQwWVttbO4eaUuohYqOnuSRMI/edit?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/timothy.sanders2/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/mrtimsanders",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://www.linkedin.com/in/timothy-sanders-540b6656",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/mrtimsanders",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbsanders5",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Full-Stack developer focussed in MERN and Javscript",
+    "education":[
+      {
+        "school":"UCSD Bootcamp Extension",
+        "degree":"Completeion of MERN Full Stack",
+        "graduated":"December 2020",
+        "description":"Fast paced incredible learning experience with a strong instructor and dedicated class mates. Learned front end styles and javascript, worked in to working with databases, then finished with combing everything in to a full MERN application."
+      }
+    ],
+    "work":[
+      {
+        "company":"10 years in the Culinary Industry",
+        "title":"Executive Chef",
+        "years":"July 2010 - March 2020",
+        "description":"Prior entering the bootcamp I worked as a professional chef. I graduated from Le Cordon Blue in Pasadena, CA in 2010. I worked my way up and was an executive chef for the final 5 years of my career. I managed teams, resolved conflict, handled orders and inventory and focused on learning every day."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5/CSS",
+        "level":"95%"
+      },
+      {
+        "name":"Express",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Cobra Arcade",
+        "category":"Web application to enjoy old school arcade games.",
+        "image":"cobra-arcade.jpg",
+        "url":"https://cobra-arcade.herokuapp.com/"
+      },
+      {
+        "title":"Fantastic Foods",
+        "category":"A meal planning application with recipe search.",
+        "image":"meal-planner.jpg",
+        "url":"https://tbsanders5.github.io/mealplanner/"
+      },
+      {
+        "title":"Budget Tracker",
+        "category":"Application geared towards helping you track finances.",
+        "image":"budget-tracker.jpg",
+        "url":"https://enigmatic-sands-86707.herokuapp.com/"
+      },
+      {
+        "title":"Employee Directory",
+        "category":"Web application that allows you to track employees.",
+        "image":"employee-directory.jpg",
+        "url":"https://tbsanders5.github.io/employeedirectory/"
+      },
+      {
+        "title":"Fitness Tracker",
+        "category":"Application to track your workouts.",
+        "image":"fitness-tracker.jpg",
+        "url":"https://frightful-mansion-03263.herokuapp.com/?id=5f9f18201970f6001737575c"
+      }
+    ]
+  }
+}
