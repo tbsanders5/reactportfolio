@@ -5,14 +5,15 @@
     "description":"Hardworking team-player with a passion for tech and a urge to learn each and every day. Hoping to create connections with like minded individuals",
     "image":"profilepic.jpg",
     "bio":"Born and Raised in San Diego, California tech has always been a love of mine. My family was the type that had a computer in every room and a true understanding of how technology flows and works. I love the ins and outs of code and am very excited to begin my career as a web developer.",
-    "contactmessage":"Contact me through any of the following methods",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "contactmessage":"Contact me with any inquiries",
+    "email": "tbsanders5@gmail.com",
+    "phone": "310-426-4601",
     "address":{
       "city":"San Diego",
       "state":"CA",
       "zip": "92107"
     },
+    "resumedownload":"https://docs.google.com/document/d/1E1IpvXGHx3-Q77dXS5tQwWVttbO4eaUuohYqOnuSRMI/edit?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -25,13 +26,8 @@
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbsanders5",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"www.linkedin.com/in/timothy-sanders-540b6656",
+        "url":"http://www.linkedin.com/in/timothy-sanders-540b6656",
         "className":"fa fa-linkedin"
       },
       {
@@ -43,11 +39,6 @@
         "name":"github",
         "url":"http://github.com/tbsanders5",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -100,37 +91,38 @@
       }
     ]
   },
+  
   "portfolio":{
     "projects": [
       {
         "title":"Cobra Arcade",
         "category":"Web application to enjoy old school arcade games.",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"cobra-arcade.jpg",
+        "url":"https://cobra-arcade.herokuapp.com/"
       },
       {
         "title":"Fantastic Foods",
         "category":"A meal planning application with recipe search.",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"meal-planner.jpg",
+        "url":"https://tbsanders5.github.io/mealplanner/"
       },
       {
         "title":"Budget Tracker",
         "category":"Application geared towards helping you track finances.",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "image":"budget-tracker.jpg",
+        "url":"https://enigmatic-sands-86707.herokuapp.com/"
       },
       {
         "title":"Employee Directory",
         "category":"Web application that allows you to track employees.",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"employee-directory.jpg",
+        "url":"https://tbsanders5.github.io/employeedirectory/"
       },
       {
         "title":"Fitness Tracker",
         "category":"Application to track your workouts.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "image":"fitness-tracker.jpg",
+        "url":"https://frightful-mansion-03263.herokuapp.com/?id=5f9f18201970f6001737575c"
       }
     ]
   }
