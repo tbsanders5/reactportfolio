@@ -6,7 +6,7 @@
   
   ![Screenshot of the application being run](./public/images/screenshot.png)
 
-  * [Github Page Link](https://tbsanders5.github.io/reactportfolio/)
+  * [Deployed Page Link](https://timothysanders.herokuapp.com/)
 
   ## Description ##
 
