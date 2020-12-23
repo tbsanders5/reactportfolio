@@ -98,31 +98,36 @@
         "title":"Cobra Arcade",
         "category":"Web application to enjoy old school arcade games.",
         "image":"cobra-arcade.jpg",
-        "url":"https://cobra-arcade.herokuapp.com/"
+        "url":"https://cobra-arcade.herokuapp.com/",
+        "github":"https://github.com/aaronkplatt/project-2.github.io"
       },
       {
         "title":"Fantastic Foods",
         "category":"A meal planning application with recipe search.",
         "image":"meal-planner.jpg",
-        "url":"https://tbsanders5.github.io/mealplanner/"
+        "url":"https://tbsanders5.github.io/mealplanner/",
+        "github":"https://github.com/tbsanders5/mealplanner"
       },
       {
         "title":"Budget Tracker",
         "category":"Application geared towards helping you track finances.",
         "image":"budget-tracker.jpg",
-        "url":"https://enigmatic-sands-86707.herokuapp.com/"
+        "url":"https://enigmatic-sands-86707.herokuapp.com/",
+        "github":"https://github.com/tbsanders5/budgettracker"
       },
       {
         "title":"Employee Directory",
         "category":"Web application that allows you to track employees.",
         "image":"employee-directory.jpg",
-        "url":"https://tbsanders5.github.io/employeedirectory/"
+        "url":"https://tbsanders5.github.io/employeedirectory/",
+        "github":"https://github.com/tbsanders5/employeedirectory"
       },
       {
         "title":"Fitness Tracker",
         "category":"Application to track your workouts.",
         "image":"fitness-tracker.jpg",
-        "url":"https://frightful-mansion-03263.herokuapp.com/?id=5f9f18201970f6001737575c"
+        "url":"https://frightful-mansion-03263.herokuapp.com/?id=5f9f18201970f6001737575c",
+        "github":"https://github.com/tbsanders5/fitnesstracker"
       }
     ]
   }
