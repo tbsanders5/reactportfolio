@@ -95,6 +95,13 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Nomad Wilderness Survival",
+        "category":"Progressive Web Application for survival in the great outdoors",
+        "image":"nomad.gif",
+        "url":"https://wilderness-survival-app.herokuapp.com/",
+        "github":"https://github.com/Rogers-Development-Services/Wilderness-Survival-App"
+      },
+      {
         "title":"Cobra Arcade",
         "category":"Web application to enjoy old school arcade games.",
         "image":"cobra-arcade.jpg",
