@@ -285,23 +285,6 @@ ul#nav li.current a { color: #F06000; }
 /*	Skill Bars
 /*----------------------------------------------*/
 
-.bars {
-	width: 95%;
-	float: left;
-	padding: 0;
-	text-align: left;
-}
-.bars .skills {
-  	margin-top: 36px;
-   list-style: none;
-}
-.bars li {
-   position: relative;
-  	margin-bottom: 60px;
-  	background: #ccc;
-  	height: 42px;
-  	border-radius: 3px;
-}
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
    color: #313131;
@@ -309,8 +292,27 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
-	top: -36px;
+   /* top: -36px; */
+   /* margin-top: 36px; */
 }
+
+.bars .skills {
+   margin-top: 36px;
+ list-style: none;
+}
+
+
+/* .bars {
+	width: 95%;
+	float: left;
+	padding: 0;
+	text-align: left;
+}
+
+
+
+
+
 .bar-expand {
    position: absolute;
    left: 0;
@@ -323,7 +325,7 @@ ul#nav li.current a { color: #F06000; }
   	height: 42px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
-}
+} */
 /*
 .git {
   	-moz-animation: git 2s ease;
